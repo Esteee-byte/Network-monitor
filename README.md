@@ -9,5 +9,5 @@ A lightweight Python-based network monitoring tool designed to inspect local and
 ## 💻 Usage
 1. *Clone the repository:*
    ```bash
-   git clone [https://github.com/Esteee-byte/Network-monitor.git]
+   git clone https://github.com/Esteee-byte/Network-monitor.git
    cd Network-monitor
