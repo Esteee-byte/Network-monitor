@@ -11,3 +11,5 @@ A lightweight Python-based network monitoring tool designed to inspect local and
    ```bash
    git clone https://github.com/Esteee-byte/Network-monitor.git
    cd Network-monitor
+### 🛡️ TryHackMe Progress
+[![TryHackMe Badge](https://b-cdn.net)](https://tryhackme.com)
